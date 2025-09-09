@@ -1,1 +1,34 @@
 /* Your CSS here. */
+body {
+  background-color: white;
+}
+
+.card {
+  background-color: #6e6e6e; 
+  color: white;
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 4px;
+}
+
+.email {
+  font-style: italic;
+  text-align: center;
+}
+
+.github {
+  display: inline-block;
+  margin: 10px 0;
+  color: #add8e6; 
+}
+
+p {
+  text-align: left;
+}
